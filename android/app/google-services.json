@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "435217445350",
+    "project_id": "attendancesystemfr-f754c",
+    "storage_bucket": "attendancesystemfr-f754c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435217445350:android:4c032b772e2844b7d6a627",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJE9rJbZUSOU5AM2COZqgzUEh2UARcWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435217445350-7lgitjqqnsk3i4eqs58euoh3ahjpjckk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shubh.attendancesystem.attendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435217445350:android:9dc490845bff54cbd6a627",
+        "android_client_info": {
+          "package_name": "com.example.realtime_face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJE9rJbZUSOU5AM2COZqgzUEh2UARcWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435217445350-7lgitjqqnsk3i4eqs58euoh3ahjpjckk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shubh.attendancesystem.attendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435217445350:android:79434cc1240e246ed6a627",
+        "android_client_info": {
+          "package_name": "com.shubh.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435217445350-0bpv09qgj5i0m0i3ug7op8lhru3qi3jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubh.attendance_system",
+            "certificate_hash": "c793e7b8e8bc3d7458bd3c071ea45e7f7959d219"
+          }
+        },
+        {
+          "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJE9rJbZUSOU5AM2COZqgzUEh2UARcWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435217445350-pdioho441udu9m446m5df9037gagc45j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435217445350-7lgitjqqnsk3i4eqs58euoh3ahjpjckk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shubh.attendancesystem.attendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
