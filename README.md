@@ -3,7 +3,7 @@
 
 This is an AI-powered attendance system built using Flutter and Firebase. The project leverages face recognition technology to streamline the attendance process for students and teachers.
 
-#🌟 Features
+# 🌟 Features
 
 Face Recognition for Attendance: Students can register and mark attendance using face recognition.
 Role-Based Dashboard: Separate dashboards for teachers and students for managing attendance and subjects.
