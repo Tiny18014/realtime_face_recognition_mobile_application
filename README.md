@@ -12,7 +12,7 @@ Live Attendance Records: Real-time attendance updates for both teachers and stud
 Firebase Integration: Authentication, Firestore for database storage, and Firebase Cloud Messaging for notifications.
 Responsive UI: A user-friendly interface with smooth animations and clear navigation.
 
-#🛠️ Technology Stack
+# 🛠️ Technology Stack
 Frontend
 Flutter: For building cross-platform mobile applications.
 Google ML Kit: For face recognition and verification.
@@ -24,7 +24,7 @@ Other Tools
 Dart: Programming language for Flutter.
 GitHub: Version control and project hosting.
 
-#🧩 System Architecture
+# 🧩 System Architecture
 The system consists of the following components:
 
 Authentication:
@@ -41,7 +41,7 @@ Teachers Collection: Stores teacher details and associated subjects.
 Subjects Collection: Maintains subject details, students, and attendance records.
 Users Collection: Stores student and teacher profiles, face embeddings, and roles.
 
-#🚀 How to Run the Project
+# 🚀 How to Run the Project
 Clone the Repository:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -52,7 +52,7 @@ flutter pub get
 Run the App:
 flutter run
 
-#📊 Future Enhancements
+## 📊 Future Enhancements
 Offline Mode: Enable attendance marking without internet connectivity.
 Expanded Analytics: Provide detailed insights into attendance patterns.
 Multilingual Support: Add support for multiple languages for broader accessibility.
